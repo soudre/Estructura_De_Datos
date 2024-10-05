@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa6645d9-57bc-426b-b110-6a28b286614d" name="Changes" comment="Creando Proyecto ONE Estructura de Datos para Certificado Backend Java por Oracle Next Educations." />
+    <list default="true" id="aa6645d9-57bc-426b-b110-6a28b286614d" name="Changes" comment="Creación de la Clase Alumno con su constructor y getter" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/soudre/Estructura_De_Datos",
+    "accountId": "2ec2e5ac-04fc-4735-84b9-2cf2e831421f"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -76,7 +82,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728161955421</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Creación de la Clase Alumno con su constructor y getter">
+      <option name="closed" value="true" />
+      <created>1728162503254</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728162503254</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,6 +116,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creando Proyecto ONE Estructura de Datos para Certificado Backend Java por Oracle Next Educations." />
-    <option name="LAST_COMMIT_MESSAGE" value="Creando Proyecto ONE Estructura de Datos para Certificado Backend Java por Oracle Next Educations." />
+    <MESSAGE value="Creación de la Clase Alumno con su constructor y getter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creación de la Clase Alumno con su constructor y getter" />
   </component>
 </project>
